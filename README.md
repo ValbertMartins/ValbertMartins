@@ -1,4 +1,3 @@
-\u2800
 
 - 👋 Hi, I’m @ValbertMartins
 - 🌱 I’m currently learning ...
